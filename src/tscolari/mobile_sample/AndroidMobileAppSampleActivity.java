@@ -22,7 +22,7 @@ public class AndroidMobileAppSampleActivity extends Activity {
         mainWebView.setWebViewClient(new MyCustomWebViewClient());
         mainWebView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
         
-        mainWebView.loadUrl("http://www.dodocase.com");
+        mainWebView.loadUrl("http://gift-mart.in");
     }
     
     private class MyCustomWebViewClient extends WebViewClient {
